@@ -1,2 +1,8 @@
-# BiometricFileAccess
-Using 2FA of biometic and OTP authentication for privileged file/folder access on network drives
+# Project Title
+-------------------------------------------------------------------
+Multifactor File Access System
+-------------------------------------------------------------------
+
+# USAGE
+
+The use of two-factor authentication to securely protect files on a computer system
